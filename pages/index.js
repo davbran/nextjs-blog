@@ -32,7 +32,6 @@ export default function Home({ allPostsData }) {
               <small className={utilStyles.lightText}>
                 <Date dateString={date} />
               </small>
-              <h2>this is in the new branch</h2>
             </li>
             
           ))}
